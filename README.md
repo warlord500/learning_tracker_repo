@@ -15,5 +15,11 @@ for effective budgeting
 other projects organized by language most used 
 ### c++ 
 
+### python
 
 
+### java
+
+### javascript
+
+### rust
