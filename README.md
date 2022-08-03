@@ -15,10 +15,10 @@ for effective budgeting
 
 other projects organized by language most used 
 ### c++ 
-
+[spaceT](https://github.com/warlord500/SpaceT) - an old kinda of abonded project to combine tetris and space invaders in a game.
 ### python
-
-
+[daily coding problems](https://github.com/warlord500/daily_coding_or_one_off_scripts)
+- small challenge problems that i try to do daily!
 ### java
 
 ### javascript
